@@ -1,2 +1,3 @@
 # hello-world
-This repository is for practising the GitHub flow
+This repository is for practicing the GitHub flow
+My name is wendy
